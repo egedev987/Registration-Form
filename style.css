@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background: #a0d2eb;
+  color:#8458B3;
+}
+
+input {
+  margin: 0.5em;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+h1,h2 {
+  display: flex;
+  justify-content: center;
+}
